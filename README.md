@@ -31,7 +31,7 @@ Replace `example.com` with your domain and `admin@example.com` with your email.
 ### Method 1: Direct Download
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/xixu-me/hy-nginx-deploy/main/install.sh -o install.sh
+curl -fsSL https://github.com/xixu-me/hy-nginx-deploy/raw/refs/heads/main/install.sh -o install.sh
 sudo bash install.sh -d your-domain.com -e your@email.com
 ```
 
